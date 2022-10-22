@@ -23,7 +23,7 @@ References
 
 | shape of the network (E-o, E-D, D-o) <!--E-o: Encoder-only, E-D: Encoder-Decoder, D-o: Decoder-only--> | Number of layers | Number of Dimensions | Number of Heads | Shape of the Feed Forward Layers | Width of the input |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| <Your Answer> | <Your Answer> | <Your Answer> | <Your Answer> | <Your Answer> | <Your Answer> |
+| <your answer> | <your answer> | <your answer> | <your answer> | <your answer> | <your answer> |
 
 2. data related
 
@@ -67,7 +67,7 @@ References
 
 | shape of the network (E-o, E-D, D-o) <!--E-o: Encoder-only, E-D: Encoder-Decoder, D-o: Decoder-only--> | Number of layers | Number of Dimensions | Number of Heads | Shape of the Feed Forward Layers | Width of the input |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| <Your Answer> | <Your Answer> | <Your Answer> | <Your Answer> | <Your Answer> | <Your Answer> |
+| <your answer> | <your answer> | <your answer> | <your answer> | <your answer> | <your answer> |
 
 2. data related
 
